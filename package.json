@@ -1,0 +1,31 @@
+{
+  "name": "methods-for-working-with-csv",
+  "version": "1.0.0",
+  "description": "Working with csv files quickly, easily and hassle-free",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArikBartzadok/methods-for-working-with-csv.git"
+  },
+  "keywords": [
+    "javascript",
+    "csv",
+    "json",
+    "nodejs",
+    "excell"
+  ],
+  "author": "ArikBartzadok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArikBartzadok/methods-for-working-with-csv/issues"
+  },
+  "homepage": "https://github.com/ArikBartzadok/methods-for-working-with-csv#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "papaparse": "^5.3.0",
+    "xlsx": "^0.16.9"
+  }
+}
